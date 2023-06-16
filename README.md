@@ -27,6 +27,9 @@ Este repositório contém todo o código-fonte e recursos necessários para exec
   <h3>Vinícius Gabriel Da Silva Caetano</h3>
   <h3>João Vitor Vasconcellos Cintra</h2>
   <h3>Joao Victor Moraes vieira</h3>
+
   <h3>Mateus Alves de Freitas</h3>
  </div>
-
+<div>
+  <img width="917" alt="mobileee" src="https://github.com/Viniciusgsc/Smart-House-Mobilee/assets/88463035/bac8b203-d0a6-4129-8bee-539d7c6406af">
+</div>
