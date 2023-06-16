@@ -13,7 +13,7 @@
     <i> Sobre o Projeto</i>
   </h1>
   <h3> 
-O Smart House Mobile é um aplicativo móvel desenvolvido para controlar e monitorar uma casa inteligente. Com este aplicativo, os usuários podem controlar vários dispositivos domésticos conectados, como luzes, temperatura, fechaduras, câmeras e muito mais, diretamente de seus dispositivos móveis.
+O Smart House Mobile é um aplicativo móvel desenvolvido para controlar e monitorar uma casa inteligente. Com este aplicativo, os usuários podem analisar vários sensores conectados, como de gás, sensor de chuva e de proximidade ,muito mais, diretamente de seus dispositivos móveis.
 
 O aplicativo foi desenvolvido utilizando tecnologias modernas e possui uma interface intuitiva e fácil de usar. Ele se integra perfeitamente a uma plataforma de casa inteligente existente e oferece uma experiência completa de controle residencial remoto.
 
